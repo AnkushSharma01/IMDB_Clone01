@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/static/css/main.e45fb457.css",
-    "main.js": "/static/js/main.27b7f2bc.js",
-    "index.html": "/index.html",
-    "main.e45fb457.css.map": "/static/css/main.e45fb457.css.map",
-    "main.27b7f2bc.js.map": "/static/js/main.27b7f2bc.js.map"
+    "main.css": "/IMDB_Clone01/static/css/main.e45fb457.css",
+    "main.js": "/IMDB_Clone01/static/js/main.27b7f2bc.js",
+    "index.html": "/IMDB_Clone01/index.html",
+    "main.e45fb457.css.map": "/IMDB_Clone01/static/css/main.e45fb457.css.map",
+    "main.27b7f2bc.js.map": "/IMDB_Clone01/static/js/main.27b7f2bc.js.map"
   },
   "entrypoints": [
     "static/css/main.e45fb457.css",
