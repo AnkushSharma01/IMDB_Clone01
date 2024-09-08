@@ -1,13 +1,14 @@
 {
   "files": {
     "main.css": "/IMDB_Clone01/static/css/main.e45fb457.css",
-    "main.js": "/IMDB_Clone01/static/js/main.27b7f2bc.js",
+    "main.js": "/IMDB_Clone01/static/js/main.5fd1322e.js",
+    "static/media/IMDB002.jpg": "/IMDB_Clone01/static/media/IMDB002.a64e529a89f8910052b4.jpg",
     "index.html": "/IMDB_Clone01/index.html",
     "main.e45fb457.css.map": "/IMDB_Clone01/static/css/main.e45fb457.css.map",
-    "main.27b7f2bc.js.map": "/IMDB_Clone01/static/js/main.27b7f2bc.js.map"
+    "main.5fd1322e.js.map": "/IMDB_Clone01/static/js/main.5fd1322e.js.map"
   },
   "entrypoints": [
     "static/css/main.e45fb457.css",
-    "static/js/main.27b7f2bc.js"
+    "static/js/main.5fd1322e.js"
   ]
 }
